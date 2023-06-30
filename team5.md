@@ -1,7 +1,7 @@
 # team1
 ## member1:
-name:
-github id:
+name: Hwang seojin
+github id: hwangseojin223
 
 ## member2:
 name:kim ye jin
