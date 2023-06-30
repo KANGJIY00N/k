@@ -11,7 +11,7 @@ class Complex:
 
     # member1
     def __add__(self, c): # return self+c
-        pass
+        return self+c
 
     # member2
     def __sub__(self, c): # return self-c
@@ -21,7 +21,10 @@ class Complex:
     def __mul__(self, c): # return self*c
         pass
 
+    # member4
+    # print("member4")
 
+    
 c1 = Complex(1,2)
 c2 = Complex(2,-2)
 print(c1+c2)
