@@ -4,7 +4,7 @@ name:박민정
 github id:RACHEL056
 
 ## member2:
-name:
+name:황교준
 github id:
 
 ## member3:
