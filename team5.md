@@ -8,5 +8,5 @@ name:
 github id:
 
 ## member3:
-name:
-github id:
+name: 김응진
+github id: mmm806
