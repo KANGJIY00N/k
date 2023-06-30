@@ -4,8 +4,8 @@ name:Hyeonho Jang
 github id:Hyeonhooo
 
 ## member2:
-name:
-github id:
+name:sungwhan Shim
+github id:yellowsimpson
 
 ## member3:
 name:
