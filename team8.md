@@ -1,7 +1,7 @@
 # team8
 ## member1:
-name:
-github id:
+name: Kim dae won
+github id: kdwon0811@naver.com
 
 ## member2:
 name:
