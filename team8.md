@@ -1,7 +1,7 @@
 # team8
 ## member1:
-name:
-github id:
+name: 
+github id: 
 
 ## member2:
 name:
