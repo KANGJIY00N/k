@@ -3,7 +3,7 @@
 name:
 github id:
 
-## member2: Won Jun
+## member2: WonJun
 name:
 github id: wonddackmon
 
