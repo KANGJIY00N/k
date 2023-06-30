@@ -1,7 +1,7 @@
 # team6
 ## member1:
-name:
-github id:
+name:박민정
+github id:RACHEL056
 
 ## member2:
 name:
