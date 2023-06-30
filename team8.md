@@ -1,17 +1,12 @@
 # team8
 ## member1:
-<<<<<<< HEAD
-name: 
-github id: 
-=======
-name: Kim dae won
-github id: kdwon0811@naver.com
->>>>>>> origin/main
+name:Kang jiyoon
+github id:KANGJIYOON
 
 ## member2:
-name:Kang ji yoon 
-github id: KANGJIY00N
+name:Kim daewon
+github id:kdwon0811@naver.com
 
 ## member3:
-name: 
-github id: 
+name: Lyu ji-ah
+github id: lyujia
