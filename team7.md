@@ -12,5 +12,5 @@ github id:
 
 ## member3:
 
-name:
-github id:
+name:이민수	
+github id: leepoter
