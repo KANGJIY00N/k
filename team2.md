@@ -3,9 +3,9 @@
 name:
 github id:
 
-## member2:
+## member2: Won Jun
 name:
-github id:
+github id: wonddackmon
 
 ## member3:
 name:
