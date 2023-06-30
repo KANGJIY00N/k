@@ -1,7 +1,7 @@
 # team9
 ## member1:
-name:
-github id:
+name: Choi Hyun Min
+github id: tolkienks
 
 ## member2:
 name:
