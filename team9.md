@@ -1,11 +1,11 @@
 # team9
 ## member1:
-name: 박재현
-github id: JaeJJang
+name: Choi Hyun Min
+github id: tolkienks
 
 ## member2:
-name:
-github id:
+name: 박재현 
+github id: JaeJJang
 
 ## member3:
 name:
