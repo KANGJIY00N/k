@@ -4,8 +4,8 @@ name: 박재현
 github id: jaehyeonpy
 
 ## member2:
-name:
-github id:
+name: 최인주
+github id: choiinju
 
 ## member3:
 name:
