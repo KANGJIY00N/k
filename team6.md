@@ -5,7 +5,7 @@ github id:RACHEL056
 
 ## member2:
 name:황교준
-github id:
+github id:shane5969@naver.com
 
 ## member3:
 name:조수빈
