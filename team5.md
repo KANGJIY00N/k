@@ -4,9 +4,9 @@ name:
 github id:
 
 ## member2:
-name:
-github id:
+name:kim ye jin
+github id: yejineeeeee
 
 ## member3:
-name:
-github id:
+name: 김응진
+github id: mmm806
