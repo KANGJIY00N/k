@@ -8,5 +8,5 @@ name:
 github id: wonddackmon
 
 ## member3:
-name:
-github id:
+name: Rha Hyeona
+github id: RhaHyunAh
