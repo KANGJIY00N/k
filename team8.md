@@ -1,12 +1,12 @@
 # team8
 ## member1:
-name:
-github id:
+name:Kang jiyoon
+github id:KANGJIYOON
 
 ## member2:
-name:
-github id:
+name:Kim daewon
+github id:kdwon0811@naver.com
 
 ## member3:
-name:
-github id:
+name: Lyu Ji-ah
+github id: lyujia
