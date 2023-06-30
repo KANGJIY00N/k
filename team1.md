@@ -8,5 +8,5 @@ name:sungwhan Shim
 github id:yellowsimpson
 
 ## member3:
-name:
-github id:
+name:Byeori Kim	
+github id:kimbyul2
