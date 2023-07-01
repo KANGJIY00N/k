@@ -11,15 +11,15 @@ class Complex:
 
     # member1
     def __add__(self, c): # return self+c
-        pass
+        print(c1)
 
     # member2
     def __sub__(self, c): # return self-c
-        pass
+        pr
 
     # member3
     def __mul__(self, c): # return self*c
-        pass
+        
 
 
 c1 = Complex(1,2)
