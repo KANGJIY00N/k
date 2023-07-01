@@ -8,5 +8,5 @@ name: 최인주
 github id: choiinju
 
 ## member3:
-name:
-github id:
+name: 류동현
+github id: ryudonghyun123

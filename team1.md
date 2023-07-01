@@ -1,12 +1,12 @@
 # team1
 ## member1:
-name:
-github id:
+name:Hyeonho Jang
+github id:Hyeonhooo
 
 ## member2:
-name:
-github id:
+name:sungwhan Shim
+github id:yellowsimpson
 
 ## member3:
-name:
-github id:
+name:Byeori Kim	
+github id:kimbyul2

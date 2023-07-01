@@ -1,12 +1,12 @@
 # team1
 ## member1:
-name:
-github id:
+name: Jeon sujin
+github id: suzxixn
 
-## member2:
+## member2: WonJun
 name:
-github id:
+github id: wonddackmon
 
 ## member3:
-name:
-github id:
+name: Rha Hyeona
+github id: RhaHyunAh

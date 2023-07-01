@@ -7,10 +7,10 @@ github id: SangYoonLee1231
 
 ## member2:
 
-name:
-github id:
+name: 우재영
+github id: dounocode
 
 ## member3:
 
-name:
-github id:
+name:이민수	
+github id: leepoter
